@@ -1,4 +1,4 @@
-#A wireless Battery Voltage Monitoring System
+## A wireless Battery Voltage Monitoring System
 
 The repo contains firmware codes for both the transmitter and receiver that monitors the battery voltage levels of the specified batteries.Everything on how to program and what the codes does is documented sequentially in this repo. The data from the transmitters to the receiver is transferred wirelessly via LoRa where it's then logged to a display.
 
